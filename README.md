@@ -3,9 +3,9 @@
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge)](https://github.com/zGordola1)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey?style=for-the-badge)](https://github.com/NielzSec)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
-[![Focus](https://img.shields.io/badge/Category-Red%20Team%20%7C%20CTF%20Toolkit-red?style=for-the-badge)](https://github.com/zGordola1)
+[![Focus](https://img.shields.io/badge/Category-Red%20Team%20%7C%20CTF%20Toolkit-red?style=for-the-badge)](https://github.com/NielzSec)
 
 </div>
 
@@ -34,7 +34,7 @@ O **Py-Shellcraft** (Canivete de Shells) é uma ferramenta interativa em linha d
 ### 1. Instalação das Dependências
 
 ```bash
-git clone https://github.com/zGordola1/py-shellcraft.git
+git clone https://github.com/NielzSec/py-shellcraft.git
 cd py-shellcraft
 pip install -r requirements.txt
 ```
